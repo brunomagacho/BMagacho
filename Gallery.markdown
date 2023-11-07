@@ -7,9 +7,9 @@ permalink: /Gallery/
 
 
 
-<img align="left" width="300" height="400" src="/assets/img/bike1.jpg">
+<img align="left" width="300" height="400" src="/assets/bike1.jpg">
 
-<img align="left" width="300" height="400" src="/assets/img/bike2.jpg">
+<img align="left" width="300" height="400" src="/assets/bike2.jpg">
 
 </details>
 
