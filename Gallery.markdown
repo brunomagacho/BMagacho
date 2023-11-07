@@ -5,15 +5,15 @@ permalink: /Gallery/
 ---
 
 
+<details markdown='1'><summary>Mountain bike pictures</summary> 
 
+[mtb pic 1](/assets/bike1.jpg)
 
-<img align="left" width="300" height="400" src="/assets/bike1.jpg">
-
-<img align="left" width="300" height="400" src="/assets/bike2.jpg">
+[mtb pic 2](/assets/bike2.jpg)
 
 </details>
 
 
-... you can [get the PDF](/assets/wedin2004.pdf) directly.
+[Wedin2004 article](/assets/wedin2004.pdf)
 
-[get the PDF](/assets/bike1.jpg)
+
