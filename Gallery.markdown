@@ -15,3 +15,5 @@ permalink: /Gallery/
 
 
 ... you can [get the PDF](/assets/wedin2004.pdf) directly.
+
+[get the PDF](/assets/bike1.jpg)
