@@ -1,11 +1,11 @@
 ---
 title: Projects
-permalink: "/BMagacho/projects/"
+permalink: "/projects/"
 ---
 
 {% for project in site.projects %}
   <h2>
-    <a href="{{ project.url }}">
+    <a href="{{ /BMagacho/project.url }}">
       {{ project.title }}
       </a>
   </h2>
