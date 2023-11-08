@@ -5,7 +5,7 @@ permalink: "/projects/"
 
 {% for project in site.projects %}
   <h2>
-    <a href="{{ /BMagacho/project.url }}">
+    <a href="{{ project.url }}">
       {{ project.title }}
       </a>
   </h2>
