@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /projects/
+permalink: /BMagacho/projects/
 ---
 
 {% for project in site.projects %}
