@@ -4,7 +4,7 @@ title:  "Codes of the Lattice Boltzmann course"
 date:   2021-06-17 10:33:54 -0300
 categories: jekyll update
 author: "Bruno Magacho"
-permalink: /BMagacho/:categories/:date/:title
+permalink: /:categories/:date/:title
 ---
 
 <details markdown='1'><summary>BGK2D ThinPlate Class</summary> 
