@@ -14,6 +14,5 @@ permalink: /Gallery/
 </details>
 
 
-[Wedin2004 article](/assets/wedin2004.pdf)
 
 
